@@ -1,0 +1,364 @@
+{
+ "bijgewerkt": "2026-11-02",
+ "bron": "weekoverzicht ma 2 nov",
+ "aanbiedingen": [
+  {
+   "id": "deka-cola",
+   "winkel": "Dekamarkt",
+   "product": "Coca-Cola 1 liter",
+   "merk": "Coca-Cola",
+   "groep": "Frisdrank",
+   "omschrijving": "Fles 1 l of 1,25 l (ook Fanta, Sprite, Fuze Tea)",
+   "actie": "€1,49",
+   "normaal": "€2,05",
+   "actieprijs": "€1,49",
+   "korting": 27,
+   "van": "2026-11-03",
+   "tot": "2026-11-09",
+   "termen": [
+    "cola",
+    "coca cola",
+    "zero",
+    "light",
+    "frisdrank"
+   ]
+  },
+  {
+   "id": "ah-page",
+   "winkel": "Albert Heijn",
+   "product": "Page Compleet Schoon 24/18 rollen",
+   "merk": "Page",
+   "groep": "Toiletpapier",
+   "omschrijving": "Voordeelpak 24 rollen of gerecycled 18 rollen, 2-laags",
+   "actie": "2e gratis",
+   "normaal": "€16,99",
+   "actieprijs": "2e gratis",
+   "korting": 50,
+   "van": "2026-11-02",
+   "tot": "2026-11-08",
+   "termen": [
+    "toiletpapier",
+    "wc papier",
+    "page"
+   ]
+  },
+  {
+   "id": "kruidvat-nalys",
+   "winkel": "Kruidvat",
+   "product": "Nalys Soft toiletpapier 24 rollen",
+   "merk": "Nalys",
+   "groep": "Toiletpapier",
+   "omschrijving": "24 rollen, 2-laags (alternatief merk)",
+   "actie": "1+1 gratis",
+   "normaal": "€15,99",
+   "actieprijs": "1+1 gratis",
+   "korting": 50,
+   "van": "2026-10-26",
+   "tot": "2026-11-22",
+   "termen": [
+    "toiletpapier",
+    "wc papier",
+    "nalys"
+   ]
+  },
+  {
+   "id": "vomar-dececco",
+   "winkel": "Vomar",
+   "product": "De Cecco pasta 500 g",
+   "merk": "De Cecco",
+   "groep": "Pasta",
+   "omschrijving": "Diverse soorten, 500 g",
+   "actie": "1+1 gratis",
+   "normaal": "€2,65",
+   "actieprijs": "1+1 gratis",
+   "korting": 50,
+   "van": "2026-11-01",
+   "tot": "2026-11-07",
+   "termen": [
+    "pasta",
+    "de cecco",
+    "spaghetti",
+    "penne"
+   ]
+  },
+  {
+   "id": "ah-mutti",
+   "winkel": "Albert Heijn",
+   "product": "Mutti tomatenproducten",
+   "merk": "Mutti",
+   "groep": "Sauzen",
+   "omschrijving": "Passata/Polpa 425 ml, Pomodori pelati/Tomates cerises 400 g, concentraat 130 g",
+   "actie": "2e halve prijs",
+   "normaal": "€1,99–€2,49",
+   "actieprijs": "2e halve prijs",
+   "korting": 25,
+   "van": "2026-10-12",
+   "tot": "2026-11-08",
+   "termen": [
+    "saus",
+    "tomaat",
+    "passata",
+    "polpa"
+   ]
+  },
+  {
+   "id": "lidl-heartbreakers",
+   "winkel": "Lidl",
+   "product": "Chio Heartbreakers 125 g",
+   "merk": "Chio",
+   "groep": "Chips",
+   "omschrijving": "Zak 125 g",
+   "actie": "€0,99",
+   "normaal": "€1,99",
+   "actieprijs": "€0,99",
+   "korting": 50,
+   "van": "2026-11-02",
+   "tot": "2026-11-07",
+   "termen": [
+    "chips",
+    "heartbreaker",
+    "heartbreakers",
+    "heartbraker",
+    "chio"
+   ]
+  },
+  {
+   "id": "ah-pringles",
+   "winkel": "Albert Heijn",
+   "product": "Pringles 165 g",
+   "merk": "Pringles",
+   "groep": "Chips",
+   "omschrijving": "Diverse smaken",
+   "actie": "€1,69",
+   "normaal": "€2,69",
+   "actieprijs": "€1,69",
+   "korting": 37,
+   "van": "2026-11-02",
+   "tot": "2026-11-08",
+   "termen": [
+    "chips",
+    "pringles",
+    "paprika",
+    "naturel",
+    "original"
+   ]
+  },
+  {
+   "id": "deka-pringles",
+   "winkel": "Dekamarkt",
+   "product": "Pringles 165 g",
+   "merk": "Pringles",
+   "groep": "Chips",
+   "omschrijving": "Original, Paprika e.a.",
+   "actie": "€1,79",
+   "normaal": "€2,65",
+   "actieprijs": "€1,79",
+   "korting": 32,
+   "van": "2026-10-27",
+   "tot": "2026-11-02",
+   "termen": [
+    "chips",
+    "pringles",
+    "paprika",
+    "naturel",
+    "original"
+   ]
+  },
+  {
+   "id": "ah-stamppot",
+   "winkel": "Albert Heijn",
+   "product": "AH Stamppotgroenten 300–600 g",
+   "merk": "AH",
+   "groep": "Groente",
+   "omschrijving": "Diverse soorten",
+   "actie": "1+1 gratis",
+   "normaal": "onbekend",
+   "actieprijs": "1+1 gratis",
+   "korting": 50,
+   "van": "2026-11-02",
+   "tot": "2026-11-08",
+   "termen": [
+    "stamppot",
+    "hutspot",
+    "boerenkool",
+    "groente"
+   ],
+   "opmerking": "Hutspot en boerenkool worden niet bij naam genoemd."
+  },
+  {
+   "id": "vomar-boerenkool",
+   "winkel": "Vomar",
+   "product": "Boerenkool fijngesneden 300 g",
+   "merk": "",
+   "groep": "Groente",
+   "omschrijving": "Hollandse boerenkool, 300 g",
+   "actie": "1+1 gratis",
+   "normaal": "€1,95",
+   "actieprijs": "1+1 gratis",
+   "korting": 50,
+   "van": "2026-11-01",
+   "tot": "2026-11-07",
+   "termen": [
+    "boerenkool",
+    "stamppot",
+    "groente"
+   ]
+  },
+  {
+   "id": "deka-hutspot",
+   "winkel": "Dekamarkt",
+   "product": "Hutspot 500 g",
+   "merk": "",
+   "groep": "Groente",
+   "omschrijving": "Zak 500 g",
+   "actie": "€0,99",
+   "normaal": "€1,49",
+   "actieprijs": "€0,99",
+   "korting": 34,
+   "van": "2026-11-03",
+   "tot": "2026-11-09",
+   "termen": [
+    "hutspot",
+    "stamppot",
+    "groente"
+   ]
+  },
+  {
+   "id": "deka-broccoli",
+   "winkel": "Dekamarkt",
+   "product": "Hollandse broccoli 500 g",
+   "merk": "",
+   "groep": "Groente",
+   "omschrijving": "Los, 500 g",
+   "actie": "€0,79",
+   "normaal": "€1,19",
+   "actieprijs": "€0,79",
+   "korting": 34,
+   "van": "2026-10-27",
+   "tot": "2026-11-02",
+   "termen": [
+    "broccoli",
+    "groente"
+   ]
+  },
+  {
+   "id": "deka-boerenkool",
+   "winkel": "Dekamarkt",
+   "product": "Boerenkool gesneden",
+   "merk": "DekaVers",
+   "groep": "Groente",
+   "omschrijving": "250–300 g",
+   "actie": "€0,99",
+   "normaal": "€1,39",
+   "actieprijs": "€0,99",
+   "korting": 29,
+   "van": "2026-10-27",
+   "tot": "2026-11-02",
+   "termen": [
+    "boerenkool",
+    "stamppot",
+    "groente"
+   ]
+  },
+  {
+   "id": "deka-magnum",
+   "winkel": "Dekamarkt",
+   "product": "Magnum handijs 3–10 st.",
+   "merk": "Magnum",
+   "groep": "IJs",
+   "omschrijving": "O.a. Mini Classic 6 st. en Mini 10 st.",
+   "actie": "€3,99",
+   "normaal": "€5,93–€8,89",
+   "actieprijs": "€3,99",
+   "korting": 33,
+   "van": "2026-10-27",
+   "tot": "2026-11-02",
+   "termen": [
+    "ijs",
+    "magnum",
+    "mini",
+    "classic",
+    "mix"
+   ]
+  },
+  {
+   "id": "deka-hak",
+   "winkel": "Dekamarkt",
+   "product": "Hak potten en pakken",
+   "merk": "Hak",
+   "groep": "Groente in pot",
+   "omschrijving": "Alle Hak potten of pakken",
+   "actie": "1+1 gratis",
+   "normaal": "€1,29–€4,15",
+   "actieprijs": "1+1 gratis",
+   "korting": 50,
+   "van": "2026-10-27",
+   "tot": "2026-11-02",
+   "termen": [
+    "hak",
+    "groente",
+    "pot",
+    "potten"
+   ]
+  },
+  {
+   "id": "ah-hak",
+   "winkel": "Albert Heijn",
+   "product": "Alle Hak",
+   "merk": "Hak",
+   "groep": "Groente in pot",
+   "omschrijving": "Formaten niet vermeld",
+   "actie": "2e halve prijs",
+   "normaal": "onbekend",
+   "actieprijs": "2e halve prijs",
+   "korting": 25,
+   "van": "2026-11-02",
+   "tot": "2026-11-08",
+   "termen": [
+    "hak",
+    "groente",
+    "pot",
+    "potten"
+   ]
+  },
+  {
+   "id": "ah-kipworst",
+   "winkel": "Albert Heijn",
+   "product": "AH kipworsten (versafdeling)",
+   "merk": "AH",
+   "groep": "Vleeswaren",
+   "omschrijving": "Alle AH kipworsten (alternatief merk)",
+   "actie": "2e halve prijs",
+   "normaal": "onbekend",
+   "actieprijs": "2e halve prijs",
+   "korting": 25,
+   "van": "2026-11-02",
+   "tot": "2026-11-08",
+   "termen": [
+    "vleeswaren",
+    "kipgrillworst",
+    "grillworst",
+    "kipworst"
+   ],
+   "opmerking": "Kipgrillworst wordt niet bij naam genoemd."
+  },
+  {
+   "id": "deka-bloemkool",
+   "winkel": "Dekamarkt",
+   "product": "Hollandse bloemkool",
+   "merk": "",
+   "groep": "Groente",
+   "omschrijving": "Per stuk",
+   "actie": "€1,49",
+   "normaal": "—",
+   "actieprijs": "€1,49",
+   "korting": 12,
+   "van": "2026-11-03",
+   "tot": "2026-11-09",
+   "termen": [
+    "bloemkool",
+    "groente"
+   ]
+  }
+ ]
+}
